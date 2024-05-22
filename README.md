@@ -35,7 +35,6 @@ Python, PyTorch, FastAI, sklearn, t-SNE, KMeans, Matplotlib, Docker.
 - FastAI
 - Matplotlib
 - sklearn
-- Docker
 
 ### План реализации:
 1. Сбор и подготовка данных.
